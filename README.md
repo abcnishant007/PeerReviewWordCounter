@@ -23,7 +23,7 @@ This Python snippet is designed to read a Microsoft Word document and count the 
    - Navigate to the directory containing the Python script and the Word document.
    - Execute the script using:
      ```
-     python <script_name>.py
+     python word_counter.py
      ```
      Replace `<script_name>` with the name of the Python file containing the code (e.g., `color_counter.py`).
 
